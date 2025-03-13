@@ -1,6 +1,6 @@
 # **Afterlife - Daltonic Friendly Item Durability Colors**  
 
-Este mod para *7 Days to Die 1.3 (b9)* modifica los colores del icono de degradación de los ítems, adaptándolos para personas con daltonismo. Ahora, los colores de desgaste serán más distinguibles, mejorando la experiencia de juego sin afectar la funcionalidad original del mod **Afterlife v2.17.7.  
+Este mod para *7 Days to Die 1.2 (b27)* modifica los colores del icono de degradación de los ítems, adaptándolos para personas con daltonismo. Ahora, los colores de desgaste serán más distinguibles, mejorando la experiencia de juego sin afectar la funcionalidad original del mod **Afterlife v2.17.7.  
 
 ---
 
@@ -39,7 +39,7 @@ Este mod para *7 Days to Die 1.3 (b9)* modifica los colores del icono de degrada
 ## **⚠️ Notas**  
 
 - Este mod solo cambia los colores visuales de degradación de ítems, no altera mecánicas del juego.  
-- Compatible con la versión de *7 Days to Die 1.3 (b9)* en la que se basa *Afterlife v2.17.7*.  
+- Compatible con la versión de *7 Days to Die 1.2 (b27)* en la que se basa *Afterlife v2.17.7*.  
 
 ---
 
