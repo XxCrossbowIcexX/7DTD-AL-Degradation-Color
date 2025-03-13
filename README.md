@@ -34,6 +34,10 @@ Este mod para *7 Days to Die 1.2 (b27)* modifica los colores del icono de degrad
 
 <img src="https://github.com/user-attachments/assets/dbcfa6ce-79b5-42ff-a86d-ea94c44230b1" width="50%" />
 
+### **Así quedaría con los cambios aplicados algunos items** ###
+
+<img src="https://github.com/user-attachments/assets/665350ce-dca1-4d18-9ced-2aafed8e4c28" />
+
 ---
 
 ## **⚠️ Notas**  
