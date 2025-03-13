@@ -8,14 +8,14 @@ Este mod para *7 Days to Die 1.2 (b27)* modifica los colores del icono de degrad
 
 | Estado        | Antes (Original) | Después (Daltonic Friendly) |
 |--------------|-----------------|-----------------------------|
-| **Nuevo**    | 🟢 Verde         | 🔵 Azul oscuro            |
-| **Usado**    | 🟡 Amarillo      | 🟦 Cian                   |
-| **Dañado**   | 🟠 Naranja       | 💜 Magenta claro          |
-| **Crítico**  | 🔴 Rojo claro    | ⚪ Gris claro             |
-| **Nuevo** (Inactivo)  | 🟢 Verde oscuro  | 🔵 Azul medio            |
-| **Usado** (Inactivo)  | 🟡 Amarillo oscuro | 🟩 Verde azulado         |
-| **Dañado** (Inactivo) | 🟠 Marrón        | 🟧 Naranja oscuro     |
-| **Crítico** (Inactivo) | 🔴 Rojo oscuro  | 🟡 Amarillo claro     |
+| **Crítico**  | 🔴 Rojo claro    | 🔵 Azul oscuro            |
+| **Dañado**   | 🟠 Naranja       | 🟦 Cian                   |
+| **Usado**    | 🟡 Amarillo      | 💜 Magenta claro          |
+| **Nuevo**    | 🟢 Verde         | ⚪ Gris claro             |
+| **Crítico** (Inactivo) | 🔴 Rojo oscuro     | 🔵 Azul medio         |
+| **Dañado** (Inactivo)  | 🟠 Marrón          | 🟩 Verde azulado      |
+| **Usado** (Inactivo)   | 🟡 Amarillo oscuro | 🟧 Naranja oscuro     |
+| **Nuevo** (Inactivo)   | 🟢 Verde oscuro    | 🟡 Amarillo claro     |
 
 🔹 **Los nuevos colores mejoran la diferenciación para personas con deuteranopía, protanopía y tritanopía.**  
 
