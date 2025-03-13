@@ -23,7 +23,7 @@ Este mod para *7 Days to Die 1.3 (b9)* modifica los colores del icono de degrada
 
 ## **📂 Instalación**  
 
-1. Descarga el archivos del mod desde este repositorio ![Aqui](https://github.com/XxCrossbowIcexX/7DTD-AL-Degradation-Color/releases/tag/v2.17.7).
+1. Descarga el archivos del mod desde este repositorio [Aqui](https://github.com/XxCrossbowIcexX/7DTD-AL-Degradation-Color/releases/tag/v2.17.7).
 2. Dirigete a la ubicación del mod Ej: (`C:\7D2D\v1\Afterlife\Afterlife\Mods\zAfterlife`) luego crea una copia de seguridad del archivo *Afterlife.dll* en otra carpeta 
 3. Extrae el archivo descargado en la carpeta y reemplazalo  
 4. ¡Listo! Ahora los colores de degradación de los ítems estarán optimizados para daltónicos.  
